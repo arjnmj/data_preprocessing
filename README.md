@@ -1,2 +1,2 @@
 # data_preprocessing
-This is a project based on preprocessing on dataset
+This is a project on data preprocessing
